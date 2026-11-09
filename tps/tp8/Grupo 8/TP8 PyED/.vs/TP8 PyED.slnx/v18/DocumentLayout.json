@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\source\\repos\\TP8 PyED\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A5384EC5-6339-4EB4-BB45-4B52265082AB}|Ej_01\\Ej_01.csproj|c:\\users\\hp\\source\\repos\\tp8 pyed\\ej_01\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5384EC5-6339-4EB4-BB45-4B52265082AB}|Ej_01\\Ej_01.csproj|solutionrelative:ej_01\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5384EC5-6339-4EB4-BB45-4B52265082AB}|Ej_01\\Ej_01.csproj|c:\\users\\hp\\source\\repos\\tp8 pyed\\ej_01\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A5384EC5-6339-4EB4-BB45-4B52265082AB}|Ej_01\\Ej_01.csproj|solutionrelative:ej_01\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5384EC5-6339-4EB4-BB45-4B52265082AB}|Ej_01\\Ej_01.csproj|c:\\users\\hp\\source\\repos\\tp8 pyed\\ej_01\\arbolbinario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5384EC5-6339-4EB4-BB45-4B52265082AB}|Ej_01\\Ej_01.csproj|solutionrelative:ej_01\\arbolbinario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ArbolBinario.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\TP8 PyED\\Ej_01\\ArbolBinario.cs",
+              "RelativeDocumentMoniker": "Ej_01\\ArbolBinario.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\TP8 PyED\\Ej_01\\ArbolBinario.cs",
+              "RelativeToolTip": "Ej_01\\ArbolBinario.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAcwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T23:14:15.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\TP8 PyED\\Ej_01\\Form1.cs",
+              "RelativeDocumentMoniker": "Ej_01\\Form1.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\TP8 PyED\\Ej_01\\Form1.cs",
+              "RelativeToolTip": "Ej_01\\Form1.cs",
+              "ViewState": "AgIAAJQAAAAAAAAAAAAmwLIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T23:04:23.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\TP8 PyED\\Ej_01\\Form1.cs",
+              "RelativeDocumentMoniker": "Ej_01\\Form1.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\TP8 PyED\\Ej_01\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Ej_01\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T23:02:53.435Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
